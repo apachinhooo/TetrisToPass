@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(118,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(125,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(125,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(126,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(126,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(130,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(137,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(217,51): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(251,33): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(268,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(369,24): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(378,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(378,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(384,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\TetrisFinallyToPass\Source.cpp(384,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  TetrisFinallyToPass.vcxproj -> C:\Users\НИКИТА\source\repos\TetrisFinallyToPass\Debug\TetrisFinallyToPass.exe
